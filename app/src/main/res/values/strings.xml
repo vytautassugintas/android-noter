@@ -1,0 +1,12 @@
+<resources>
+    <!-- App and menu values -->
+    <string name="app_name">Noter</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TextView values -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create_note">CreateNoteActivity</string>
+    <string name="title_activity_edit_note">EditNoteActivity</string>
+    <string name="title_activity_todo_create">TodoCreateActivity</string>
+    <string name="empty_notes_list_message">Whoops no notes, add them by clicking button at the bottom corner</string>
+</resources>

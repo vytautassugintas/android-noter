@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vytautassugintas/AndroidStudioProjects/Noter/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/view_list.png",
+        "source": "/Users/vytautassugintas/AndroidStudioProjects/Noter/app/build/generated/res/pngs/debug/drawable-ldpi/view_list.png"
+    },
+    {
+        "merged": "/Users/vytautassugintas/AndroidStudioProjects/Noter/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/send.png",
+        "source": "/Users/vytautassugintas/AndroidStudioProjects/Noter/app/build/generated/res/pngs/debug/drawable-ldpi/send.png"
+    },
+    {
+        "merged": "/Users/vytautassugintas/AndroidStudioProjects/Noter/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/view_grid.png",
+        "source": "/Users/vytautassugintas/AndroidStudioProjects/Noter/app/build/generated/res/pngs/debug/drawable-ldpi/view_grid.png"
+    },
+    {
+        "merged": "/Users/vytautassugintas/AndroidStudioProjects/Noter/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/check.png",
+        "source": "/Users/vytautassugintas/AndroidStudioProjects/Noter/app/build/generated/res/pngs/debug/drawable-ldpi/check.png"
+    }
+]
