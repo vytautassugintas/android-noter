@@ -17,7 +17,7 @@ Java code is divided to 4 packages: **adapters**, **data**, **ui** and **utils**
 * **ui** package controlls all the views
 * **utils** package have a class which implements TextWatcher interface
 
-#####Screenshots
+##### Screenshots
 
 ![alt text](https://github.com/vytautassugintas/android-noter/blob/master/img001_noter_main.png?raw=true "Main Activity")
 ![alt text](https://github.com/vytautassugintas/android-noter/blob/master/img002_noter_create.png?raw=true "Create Activity")
